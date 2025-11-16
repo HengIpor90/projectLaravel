@@ -18,8 +18,9 @@ export function Data() {
         { textGet: "MySQL, PostgreSQL", ItemsGet: "Database" },
         { textGet: "Docker, Kubernetes", ItemsGet: "DevOps" },// New item added backend
         { textGet: "Node.js, Express.js", ItemsGet: "Backend" },// New item added backend
+        { textGet: "OOP.config",ItemsGet:"fullStack"}
     ];
-    
+
 }
 
 export function Navbar() {
